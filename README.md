@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/github/adrozman/ULI-noise-viz/blob/main/Experiment%20Data%20Viewer.ipynb)
+[![Open in Colab](https://colab.research.google.com/github/adrozman/ULI-noise-viz/blob/main/Experiment%20Data%20Viewer.ipynb)]
 
 Interactive visualizer of ULI acoustic data
 
