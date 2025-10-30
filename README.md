@@ -8,7 +8,7 @@ This repository contains an interactive Jupyter Notebook to visualize the noise 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="200">
 </a>
 
-![Widget in use](readme_screenshot.png)
+![Widget in use](assets/readme_screenshot.png)
 
 Data from Virginia Tech:
 
