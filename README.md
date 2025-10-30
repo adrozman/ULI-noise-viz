@@ -2,4 +2,4 @@
 
 Interactive visualizer of ULI acoustic data. Click "Open in Colab" above to use.
 
-![Widget in use](readme-screenshot.png)
+![Widget in use](readme_screenshot.png)
